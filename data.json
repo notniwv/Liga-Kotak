@@ -1,0 +1,13 @@
+{
+  "updated": "2026-10-31T00:00:00.000Z",
+  "channels": [
+    {
+      "id": "sample_id",
+      "title": "Channel Sample",
+      "subscribers": 1000,
+      "views": 50000,
+      "videos": 10,
+      "history": []
+    }
+  ]
+}
