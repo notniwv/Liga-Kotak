@@ -8,7 +8,11 @@ const CHANNEL_IDS = [
   "UC-As-g5ue_RLEyY-0e0hrUA", "UCmDTLdNQpib09JQ9CD-hOrQ", "UCuQo6rIIDojEY7EvgqMLiBg", 
   "UCoq7i8ssXnZFovexOuU_NPg", "UCX_2YmQT4S32O1FDdJL69yA", "UC5Y8SHg5AvmTTbmi31QxNbg", 
   "UCq23UW0XOcVqfUuwbzUXK8Q", "UCN7OXKo3aTWdYb6oeMmGu8A", "UCRqE6DjYrBpztJ9h56nF8Wg", 
-  "UCjaPagXdq6U2Irmjs0acTFQ", "UC6O0ufi6I8hdtxbAO0bIKSQ"
+  "UCjaPagXdq6U2Irmjs0acTFQ", "UC6O0ufi6I8hdtxbAO0bIKSQ",
+  "UC2SnW_RqntqRR7_pBpzzogw", "UCKXW3NKm7j21549Ffmk7E3A", "UCHp7BhjVn08gYwDBMNkiLWQ",
+  "UCMNmG59B4J7HBnScGvA7FpQ", "UCLg5yHLaprtTUNVtxs3sy0A", "UC7hOnb-Mp4Jyx6Kot8e7-aA",
+  "UCIiL0fhV85qFRDpn6srGRew", "UCJG_zvSHQZmdGKIK03rIBCQ", "UCOISwDPVF0zohrMuACiItew",
+  "UC7tsDGKokqqh1hj00G6noTg"
 ];
 
 async function run() {
